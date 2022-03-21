@@ -3,12 +3,12 @@
 ## Overview of the School District Analysis
 This analysis uses Pandas and numpy libraries in Jupiter notebook to examine math and reading scores for students in a district of fifteen high schools. The data compares average  math, reading, and overall passing scores.  
 
-The purpose of this analysis is to determine the effects of replacing a portion of the data for a certain high school with NaNs while keeping the rest of the data intact. The goal is to allow the analysis with the removed data to see if any changes occur which may indicate evidence of academic dishonesty due to altered grades. 
+The purpose of this analysis is to determine the effects of replacing a portion of the data for a certain high school with NaNs while keeping the rest of the data intact. The goal is to conduct a second analysis with data removed in order to see if any changes occur. This may indicate evidence of academic dishonesty, such as if grades were altered. 
 
 ## Results
 #### •	How is the district summary affected?
 
-The only difference between the district summaries is that the average math score decreased, which also slightly affected the percentage of overall passing students. The average reading score stayed about the same.
+Comparing the district summaries in a data frame shows that the average math score and the percentage of students passing reading decreased, which also  affected the percentage of overall passing students. 
 
 District Summary Before Cleanup
 ![District Summary Before Cleanup](https://github.com/stephperillo/School_District_Analysis/blob/main/Resources/District%20Summary%20Before%20Cleanup.png)
@@ -19,13 +19,13 @@ vs. After
 
 #### •	How is the school summary affected?
 
-  There are a few effects to the school summary, all among Thomas High School's scores:
+  The school summary was also affected, with each change ocurring only among Thomas High School's scores:
   
-1. The percentage of students passing math for Thomas High School decreased from 93.3% to 66.4%.
-    
-2. The percentage of students passing reading for Thomas High School decreased from 97.3% to 69.7%.
-    
-3. The percentage of overall passing students (with scores passing both math and reading) for Thomas High School decreased from 90.9% to 65.1%.
+1. The average math score for Thomas High School decreased from 83.42 to 83.35.
+2. The average reading score for Thomas High School increased from 83.85 to 83.90.
+3. The percentage of students passing math for Thomas High School decreased from 93.3% to 66.4%.
+4. The percentage of students passing reading for Thomas High School decreased from 97.3% to 69.7%.
+5. The percentage of overall passing students (with scores passing both math and reading) for Thomas High School decreased from 90.9% to 65.1%.
 
 School Summary Before Cleanup
 ![School Summary Before Cleanup](https://github.com/stephperillo/School_District_Analysis/blob/main/Resources/Per%20School%20Summary%20Before%20Cleanup.png)
