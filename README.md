@@ -35,7 +35,7 @@ vs. After
 
 #### •	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-  ◦	After replacing Thomas High School’s ninth grader scores, Thomas High School’s ranking remained the same relative to the other schools despite the slight decrease in scores compared to before the cleanup. 	
+  ◦	After replacing Thomas High School’s ninth grader scores, Thomas High School’s ranking (based on overall passing percentages) remained the same relative to the other schools despite the slight decrease in scores compared to before the cleanup. 	
 
 Top 5 Schools Before Cleanup
 
