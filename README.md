@@ -71,7 +71,8 @@ vs. After ![Reading Scores](https://github.com/stephperillo/School_District_Anal
 ![Spending Summary](https://github.com/stephperillo/School_District_Analysis/blob/main/Resources/Spending%20Range%20Summary.png)
     
 ◦	Scores by school size 
-	  ⁃	The cleanup had a small effect on the bin of medium schools (1000-2000 students). Average math scores dropped for medium schools.
+
+ ⁃	The cleanup had a small effect on the bin of medium schools (1000-2000 students). Average math scores dropped for medium schools.
     
 Size Summary Before Cleanup
 
