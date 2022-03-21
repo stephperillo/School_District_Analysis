@@ -3,7 +3,7 @@
 ## Overview of the School District Analysis
 This analysis uses Pandas and numpy libraries in Python in Jupiter notebook to examine math and reading scores for students in a district of fifteen high schools. The data compares average  math, reading, and overall passing scores.  
 
-The purpose of this analysis is to determine the effects of replacing a portion of the data for a certain high school with NaNs while keeping the rest of the data intact. The goal is to conduct a second analysis with data removed in order to see if any changes occur. This may indicate evidence of academic dishonesty, such as if grades were altered. 
+The purpose of this analysis is to determine the effects of replacing the scores for all 9th graders at Thomas High School with NaNs while keeping the rest of the data intact. The goal is to conduct a second analysis with data removed in order to see if any changes occur. This may indicate evidence of academic dishonesty, such as if grades were altered. 
 
 ## Results
 #### •	How is the district summary affected?
