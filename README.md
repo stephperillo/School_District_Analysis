@@ -61,7 +61,7 @@ vs. After ![Reading Scores](https://github.com/stephperillo/School_District_Anal
     
 ◦ Scores by school spending
   
-   - Looking at the scores categorized by spending range, the $630 to $644 range dropped across all series. The percentage of passing students in this spending range decreased from 62.86% to 62.78%, which makes sense because Thomas High School is in this spending range. 
+   - Looking at the scores categorized by spending range, the $630 to $644 range dropped across for all scores. The percentage of passing students in this spending range decreased from 62.86% to 62.78%, which makes sense because Thomas High School is in this spending range. 
  
  Spending Summary Before Cleanup
 ![Spending Summary Before Cleanup](https://github.com/stephperillo/School_District_Analysis/blob/main/Resources/Spending%20Range%20Summary%20Before%20Cleanup.png)
